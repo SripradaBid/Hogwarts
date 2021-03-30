@@ -1,0 +1,20 @@
+h1{
+  color: #440a67;
+}
+h3{
+  color: #93329e;
+}
+h2{
+  color: #26001b;
+}
+h4{
+  color: #b4aee8;
+
+}
+
+h4:hover{
+  color: #ff005c;
+}
+a{
+    text-decoration: none;
+}
